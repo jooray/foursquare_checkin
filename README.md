@@ -17,3 +17,7 @@ Requirements: ghost.py http://jeanphix.me/Ghost.py/
 
 The author no longer uses foursquare. You should decide for yourself.
 
+Note: I can not support for this software. If you have trouble installing ghost.py, ask authors
+of ghost.py. If this software no longer works, I will not fix it (although if you fork, fix it and create a
+pull request, you will get the credit).
+
