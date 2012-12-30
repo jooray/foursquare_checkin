@@ -21,3 +21,4 @@ Note: I can not support for this software. If you have trouble installing ghost.
 of ghost.py. If this software no longer works, I will not fix it (although if you fork, fix it and create a
 pull request, you will get the credit).
 
+Bitcoin donations welcome at: 1C8UuXbfsdyJE7A9RJP3nHv8GKaYRd51hK
